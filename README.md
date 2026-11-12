@@ -265,6 +265,6 @@ relay chain network (see [Teyrchain Template node](#teyrchain-template-node) set
   the Pezkuwi SDK documentation resources.
 
 - 👥 Additionally, there are [GitHub issues](https://github.com/pezkuwichain/pezkuwi-sdk/issues) and
-  [Substrate StackExchange](https://exchange.pezkuwichain.app/).
+  [Substrate StackExchange](https://substrate.stackexchange.com/).
 - 👥You can also reach out on the [Official Pezkuwi discord server](https://polkadot-discord.w3f.tools/)
 - 🧑Reach out on [Telegram](https://t.me/substratedevs) for more questions and discussions
